@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #030306;
+}
+
+p {
+    font-size: 20px;
+}
+
+.title-text {
+    color: #d9dbff;
+}
+
+.centering {
+    position: relative;
+    margin: 0 0 0 130px;
+}
+
+.block-text {
+    margin-left: 30px;
+}
+
+.block {
+    width: 800px;
+    margin-top: 50px;
+    color: #d9dbff;
+}
