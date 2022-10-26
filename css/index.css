@@ -15,6 +15,16 @@ li {
     border: 1px #d9dbff solid;
 }
 
+a, a:link, a:visited {
+    color: #d9dbff;
+    text-decoration: #d9dbff underline;
+}
+
+a:hover, a:active {
+    color: beige;
+    text-decoration: #d9dbff underline;
+}
+
 .description {
     margin-left: 50px;
     font-size: 14px;
@@ -22,11 +32,13 @@ li {
 
 .title-text {
     color: #d9dbff;
+    margin: 0;
+    text-align: center;
 }
 
 .centering {
     position: relative;
-    margin: 0 0 0 130px;
+    margin: auto;
 }
 
 .block-text {
@@ -35,6 +47,6 @@ li {
 
 .block {
     width: 800px;
-    margin-top: 50px;
+    margin-top: 30px;
     color: #d9dbff;
 }
