@@ -2,10 +2,22 @@
     margin: 0;
     padding: 0;
     background-color: #030306;
+    font-family: 'Comfortaa', cursive;
 }
 
 p {
     font-size: 20px;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 14px;
+    border: 1px #d9dbff solid;
+}
+
+.description {
+    margin-left: 50px;
+    font-size: 14px;
 }
 
 .title-text {
