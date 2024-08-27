@@ -21,9 +21,8 @@ p {
 .info > p {
     color: #d9dbff;
     font-size: 1.25em;
-    text-align: center;
-    width: 100%;
-    margin: 9em 0 0 0;
+    text-align: left;
+    margin: 10px 0 0 10px;
 }
 
 .footer {
@@ -32,6 +31,13 @@ p {
     width: 100%;
     margin-top: 15px;
     align-content: center;
+}
+
+.title-text {
+    color: #d9dbff;
+    width: 80%;
+    text-align: center;
+    margin-right: 20%;
 }
 
 a.back-url {

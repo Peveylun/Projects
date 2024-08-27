@@ -19,7 +19,7 @@ li {
 
 .github-url, .github-url:link, .github-url:visited {
     color: #d9dbff;
-    text-decoration: #d9dbff underline;
+    text-decoration: none;
 }
 
 .github-url:hover, .github-url:active {
