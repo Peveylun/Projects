@@ -10,7 +10,7 @@ p {
 }
 
 li {
-    list-style-type: disc;
+    list-style-type: circle;
     margin: 0 5px 5px 22px;
     padding: 5px 0 5px 0;
     border: 1px #d9dbff solid;
